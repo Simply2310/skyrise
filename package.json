@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.17",
+    "nodemailer-mailgun-transport": "^2.0.2"
+  },
+  "name": "manafia",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
